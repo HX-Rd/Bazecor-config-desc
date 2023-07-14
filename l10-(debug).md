@@ -1,5 +1,8 @@
 ## Layer 10 (Debug)
 ///// LEFT
+### Row 0
+* ESC => Stop debuger
+
 ### Row 1
 * W => ?
 * T => Tab (why?)
