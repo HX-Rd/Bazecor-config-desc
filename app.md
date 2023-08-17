@@ -5,6 +5,7 @@
 * E => Split vertically
 
 ### Row 2
+* A => Maximize window
 * D => New window prompt ( conemu )
 * F => New powershell window ( conemu )
 
@@ -17,3 +18,5 @@
 * J => Go down split ( conemu )
 * K => Go up split ( conemu )
 * L => Go right split ( conemu )
+
+APP => ENTER (maximize pane, restore pane)
